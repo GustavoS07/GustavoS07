@@ -69,16 +69,15 @@
 ## 📫 Get in Touch
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-FF3898?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6C99BB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:gustavomorais0627@gmail.com"><img src="https://img.shields.io/badge/Email-FF3898?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gustavo-souza-morais-422188352/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6C99BB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+  <img src="https://i.gifer.com/g32K.gif" width="600"/>
 </p>
-
 <p align="center">
   <i>“He who has a why to live can bear almost any how.” – Nietzsche</i>
 </p>
