@@ -57,15 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoS07&hide=stars&show_icons=true&hide_rank=true&theme=gotham" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoS07&layout=compact&hide_border=true&theme=gotham" />
-</p>
-
----
-
 ## 📫 Get in Touch
 
 <p align="center">
