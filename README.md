@@ -49,7 +49,6 @@
 - 🔍 Computer Vision with YOLO
 - 📡 LoRa Communication using Orange Pi
 - 🤖 Sensor-based Automation Projects
-- 🧠 Philosophy basics (starting with Nietzsche)
 
 ---
 
@@ -64,7 +63,4 @@
 
 <p align="center">
   <img src="https://i.gifer.com/g32K.gif" width="600"/>
-</p>
-<p align="center">
-  <i>“He who has a why to live can bear almost any how.” – Nietzsche</i>
 </p>
